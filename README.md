@@ -1,6 +1,5 @@
 ### Hello there, I am Marius! 👋
 
-**Things about me:**
 - 🔭 I’m currently working on [my discord bot.](https://top.gg/bot/863559667279462410)
 - 🌱 I’m currently learning HTML, Javascript, CSS, MongoDB and Python.
 - 👯 I’m looking to collaborate on any fun project!
