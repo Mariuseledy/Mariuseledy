@@ -1,7 +1,7 @@
 ### Hello there, I am Marius! 👋
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariuseledy)](https://github.com/Mariuseledy/github-readme-stats)
+[![Marius GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariuseledy&theme=tokyonight)](https://github.com/Mariuseledy/github-readme-stats)
 
 <!--
 **Mariuseledy/Mariuseledy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
